@@ -1,5 +1,0 @@
-<Solution>
-  <Folder Name="/Solution Items/" />
-  <Project Path="CompanyApi.Tests/CompanyApi.Tests.csproj" />
-  <Project Path="CompanyApi/CompanyApi.csproj" />
-</Solution>
